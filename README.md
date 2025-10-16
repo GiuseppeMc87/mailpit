@@ -4,7 +4,7 @@
 
     sudo docker-compose up -d
 
-#### 6. Access via browser 
+#### 2. Access via browser 
     http://localhost:8025/
 
 
